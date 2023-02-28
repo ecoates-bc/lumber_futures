@@ -1,6 +1,8 @@
 # Lumber Futures
 This is a web application that visualizes the prices of lumber futures over time. The server is written in Python/Django and the client is in TypeScript/React.
 
+![Screenshot of the frontend](viz_screenshot.png)
+
 ## To run
 1. First, clone the project: `git clone https://github.com/ecoates.bc/lumber_futures`
 2. The required dependencies are `python`, `pip`, `node`, and `npm`.
